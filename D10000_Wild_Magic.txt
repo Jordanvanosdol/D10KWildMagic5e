@@ -1,9 +1,9 @@
  1/2 of caster's body furns to stone
 # of casters body furns to sodium, the other ¥ furs to ice
-random magic item within 30° of caster explodes
-random normal item within 30° of caster shrinks by 90%
+random magic item within 30' of caster explodes
+random normal item within 30' of caster shrinks by 90%
 metal statuettes fal to the ground near the caster
-12° iron statue of caster sprouts from ground within 60° of him
+12' iron statue of caster sprouts from ground within 60' of him
 daisy grows from caster's head, may be pruned without harm
 110 of casters fingers tur to steel
 1d10 sparrow cges tumble from casters mouth
@@ -49,14 +49,14 @@ A thick, foul-smelling discharge oozes from casters ears
 A wealthy investor wants to buy the casters nervous system
 Ai cannot come within 10 feet of caster’s principal weapon
 Air Elemental resides in casters lungs; inhalation unnecessary
-All air between 1” and 10° of caster turns to iron
-All air between 1 and 10° of caster tums to water
-All air between 1° and 20° of caster tums to fire
-All air within 1° of caster tums to chlorine gas
+All air between 1” and 10' of caster turns to iron
+All air between 1 and 10' of caster tums to water
+All air between 1' and 20' of caster tums to fire
+All air within 1' of caster tums to chlorine gas
 All allies appear identical to caster for d12 rounds
 All allies appear identical to target for d4 rounds
-All architecture within 120° of caster is leveled
-All Bags of Holding within 120° of caster dump their contents
+All architecture within 120' of caster is leveled
+All Bags of Holding within 120' of caster dump their contents
 All but 1 (player choice) of casters attributes rerolled daily
 All but one of caster's attributes forever raised to 18
 All but one of casters attributes forever reduced to 3
@@ -80,7 +80,7 @@ All creatures viewed by caster look and sound identical
 All creatures within 100 yards Alter Self to appear as caster
 All creatures within 100 yards Alter Self to appear as caster
 All creatures within 100 yards ignore the caster for 1d4 rounds
-All creatures within 90° of caster have a singalong for 1 turn
+All creatures within 90' of caster have a singalong for 1 turn
 All enchantments/charms upon caster are dispelled
 All enemies appear identical to caster for d4 rounds
 All enemies within 15 feet of caster are turned to cast iron
@@ -88,20 +88,20 @@ All external facial features of caster disappear
 All fat in caster’s body tums to water: nerve cells, etc.
 All flesh on casters face furns invisible when he smiles
 All foes teleported d6 miles in random direction
-All foliage within 30° of caster grows 3°
+All foliage within 30' of caster grows 3'
 All food and drink tastes uiterly bland to the caster
-All free water within 120° of caster furns to molasses
+All free water within 120' of caster furns to molasses
 All gems carried by caster are fumed to ice
 All gems carried by caster combust
 All gold carried by caster becomes as hard as steel
 All gold carried by caster increases in weight by 100X
-All gold carried by caster melts at 32° Fahrenheit
+All gold carried by caster melts at 32' Fahrenheit
 All gold carried by caster tums to fool's gold
 All gold carried by caster tums to lead
 All gold carried by caster turns to platinum
 All gold pieces carried by caster turn to goldfish
-All ground within 60° of caster is Greased, as spell
-All ground within 60° of caster turns to glass, 10° deep
+All ground within 60' of caster is Greased, as spell
+All ground within 60' of caster turns to glass, 10' deep
 All items carried by caster affected as by the spell Item
 All items carried by caster affected as by There/Not There
 All items carried by caster age 1000 years
@@ -118,7 +118,7 @@ All items carried by caster become resistant to fire; Save +5
 All items carried by caster become weightless; may float away
 All items carried by caster double in size
 All items carried by caster double their apparent weight
-All items carried by caster drop 3d100°
+All items carried by caster drop 3d100'
 All items carried by caster enchanted with Continual Light
 All items carried by caster exchange their apparent weights
 All items carried by caster fly 10 yards in random directions
@@ -143,17 +143,17 @@ All items carried by caster tum to steam
 All items carried by caster tum to water
 All items owned by caster teleport to him from his home
 All items owned by caster fur invisible
-All magic weapons within 30° of caster vanish for 1420 turns
-All matter within 60° of caster becomes invisible for d4 rounds
+All magic weapons within 30' of caster vanish for 1420 turns
+All matter within 60' of caster becomes invisible for d4 rounds
 All meat tastes blood-raw to the caster
 All metal on or within caster tums to wood
-All normal fires within 60° of caster smell like burning far
+All normal fires within 60' of caster smell like burning far
 All of caster's clothing now bears his monogram
 All plants and wildlife appear sickly to the caster
 All rings worn by caster tum to string but retain properties
-All rocks larger than 1° within 100° of caster explode
+All rocks larger than 1' within 100' of caster explode
 All rodents within 2 miles will follow caster for d10 days
-All rope, string, etc. within 120° of caster turns to licorice
+All rope, string, etc. within 120' of caster turns to licorice
 All sorts of vile noises issue from the caster's stomach
 All spells caster has memorized are cast upon random targets
 All spells caster has memorized strike him with reversed effect
@@ -167,19 +167,19 @@ All ten of caster's fingers are now on his dominant hand
 All the bones disappear from the casters hands and feet
 All trees within 100 yards of caster are turned to cast iron
 All trees within 30 feet of caster burst into flame
-All trees within 60° of caster uproot and walk away
-All water between 1° and 10° of caster tums to fire
-All water between 1 and 100° of caster urns to air
+All trees within 60' of caster uproot and walk away
+All water between 1' and 10' of caster tums to fire
+All water between 1 and 100' of caster urns to air
 All water carried by caster boils, increasing volume by 1600X
-All weapons within 60° of caster become ethereal for d§ rounds
-All weapons within 60° of caster turn invisible for 1d4 tums
+All weapons within 60' of caster become ethereal for d§ rounds
+All weapons within 60' of caster turn invisible for 1d4 tums
 All who sce caster believe him to be a criminal
 All who see caster believe him to be a harbinger of great ill
 All who see caster believe him to be a Lich
 All who see caster believe him to be the avatar of a minor god
 All who see caster know him to be a spellcaster
-All within 10° of caster receive benefit of a Heal spell
-All within 90° of caster check INT or forget who the caster is
+All within 10' of caster receive benefit of a Heal spell
+All within 90' of caster check INT or forget who the caster is
 All wood on or within caster tums to metal
 All writing in caster's spellbook appears backward
 All writing in caster's spellbook turns blurry
@@ -215,7 +215,7 @@ Any water carried by caster burns like gasoline but is water
 Any water carried by caster causes dehydration in its imbiber
 Any water carried by caster doubles in volume
 Any water carried by caster doubles size each of next 20 rnds.
-Any water carried by caster drops 100° but doesn't freeze
+Any water carried by caster drops 100' but doesn't freeze
 Any water carried by caster endows drinker with water breathing
 Any water carried by caster fills with Dust of Sneezing/Choking
 Any water carried by caster fills with gold pieces
@@ -226,7 +226,7 @@ Any water carried by caster fills with sodium chips
 Any water carried by caster fills with sponges
 Any water carried by caster has diuretic effect on its imbiber
 Any water carried by caster ignites on contact with air
-Any water carried by caster rises 200° but does not boil
+Any water carried by caster rises 200' but does not boil
 Any water carried by caster takes him to Elemental Water
 Any water carried by caster tastes like gasoline and really is
 Any water carried by caster tastes like gasoline but is pure
@@ -713,7 +713,7 @@ Caster cannot speak normally but must shout or whisper
 Caster cannot speak unless spoken to
 Caster cannot speak until he has ridden a horse
 Caster cannot speak until he is burned by fire
-Caster cannot speak until no one is within 60° of him
+Caster cannot speak until no one is within 60' of him
 Caster cannot speak until rained upon
 Caster cannot speak until someone inflicts damage upon him
 Caster cannot speak until someone says his name
@@ -902,7 +902,7 @@ Caster feels hunger pangs after casting a spell
 Caster feels intense ecstasy whenever he's wounded
 Caster feels intensely guilty whenever he cats meat
 Caster feels intensely hung-over
-Caster feels like gravity has shified by 45°
+Caster feels like gravity has shified by 45'
 Caster feels like he has been spinning in a circle for hours
 Caster feels like he just bearhugeed a cactus
 Caster feels like he’s been folded, spindled, and mutilated
@@ -1341,7 +1341,7 @@ Caster is teleported to the bottom of the nearest well
 Caster is teleported to the lair of the tarrasque
 Caster is teleported to the nearest convent
 Caster is teleported to the place from which he last teleported
-Caster is teleported to within 10° of nearest Lich
+Caster is teleported to within 10' of nearest Lich
 Caster is terrified of becoming invisible
 Caster is terrified of death and broods upon it constantly
 Caster is terrified of getting his feet wet
@@ -1417,7 +1417,7 @@ Caster leaves no footprints for d8 weeks
 Caster leaves strange, disquieting odors in his wake
 Caster leaves wet footprints wherever he goes
 Caster left a fire in his fireplace; house is now ablaze
-Caster levitates 1° above ground, retains normal Movement Rate
+Caster levitates 1' above ground, retains normal Movement Rate
 Caster levitates slightly when he casts a spell
 Caster levitates slightly when he sleeps
 Caster likes to reminisce with undead
@@ -1429,7 +1429,7 @@ Caster looks drastically different to everyone but himself
 Caster looks like a badly decayed corpse while he's asleep
 Caster looks like a cute little forest animal while asleep
 Caster looks like a murder victim while he’s asleep
-Caster looks like a stereotypical 1950°s Hollywood Martian
+Caster looks like a stereotypical 1950's Hollywood Martian
 Caster looks like an Impressionist painting while asleep
 Caster looks more and more like a burned-out hippic
 Caster looks sickly and emaciated but is not
@@ -1509,7 +1509,7 @@ Caster owns two longrange, solar -powered walkie-talkics
 Caster panics at the sight of his own blood.
 Caster perceives 2 hideous monster to be standing behind him
 Caster perceives everyone nearby to be affected by Mirror Image
-Caster perceives everyone to be facing 180° from/toward him
+Caster perceives everyone to be facing 180' from/toward him
 Caster perceives hidden demonic meaning in everyday events
 Caster perceives himself to be standing behind an evil monster
 Caster perceives himself to be standing behind himself
@@ -1536,7 +1536,7 @@ Caster punches himself in the jaw: 50% to knock himself out
 Caster punches the person standing nearest to him
 Caster quacks like a duck when he's angry
 Caster questions himself before using magic: +4 to Casting Time
-Caster radiates antilife; drains 1 HP/round from all within 10°
+Caster radiates antilife; drains 1 HP/round from all within 10'
 Caster raises a d10 yard radius hemisphere of stone from ground
 Caster randomly teleported 1 mile (N.S.E.W NESE. SW.NW)
 Caster reacts to criticism with hysterical sobbing
@@ -1977,8 +1977,8 @@ Caster thinks light is shining from the back of his head
 Caster thinks maggots infest every wound he suffers
 Caster thinks mud has significant monetary value
 Caster thinks next mine he enters belongs to him (“It's Mine”)
-Caster thinks next mine he enters is 50° colder than it is
-Caster thinks next mine he enters is 50° warmer than it is
+Caster thinks next mine he enters is 50' colder than it is
+Caster thinks next mine he enters is 50' warmer than it is
 Caster thinks next mine he enters is a living creature
 Caster thinks next mine he enters is a portal to his home
 Caster thinks next mine he enters is collapsing all around him
@@ -2030,7 +2030,7 @@ Caster thinks that spellbooks are edible and very tasty
 Caster thinks that the stars are getting closer all the time
 Caster thinks that water is in short supply and must be hoarded
 Caster thinks that water is poisonous
-Caster thinks that water tums to diamond at 32° Fahrenheit
+Caster thinks that water tums to diamond at 32' Fahrenheit
 Caster thinks that, somewhere, his clone has become sentient
 Caster thinks the intended spell affects him & not the target
 Caster thinks the next corpse he sees is his own
@@ -2061,7 +2061,7 @@ Caster tums to a tree when exposed to direct sunlight
 Caster tums to glass for d4 rounds
 Caster tums to iron d6 rounds; retains mobility and HP (AC -4)
 Caster tums to sand
-Caster tums to smoke each time he comes within 10° of flame
+Caster tums to smoke each time he comes within 10' of flame
 Caster tums to steam under every Full Moon
 Caster tums to stone and reverts every other round
 Caster tums to stone when exposed to direct sunlight
@@ -2124,7 +2124,7 @@ Caster will quickly forget the next 24 hours
 Caster wishes the apocalypse would hurry up and get here
 Caster would tell his deity a thing or two, given the chance
 Caster’s anger manifests as a little raincloud over his head
-Caster’s arm is bent 90° halfway between his wrist and elbow
+Caster’s arm is bent 90' halfway between his wrist and elbow
 Caster’s arms and legs vanish for 110 rounds
 Casters arms are stricken totally numb for 2d10 turns
 Casters arms grow to the size of his legs
@@ -2136,7 +2136,7 @@ Casters blood traces out arcane signs where it spills
 Casters blood tums to chocolate on contact with air
 Casters body is covered with octopus sucker-marks
 Caster’s body no longer produces saliva
-Casters body rotates 360°, though his head remains still
+Casters body rotates 360', though his head remains still
 Casters bones are brittle when he's in direct moonlight
 Casters bones cannot be broken by nonmagical means
 Casters boots are stuck to the ground with railroad spikes
@@ -2219,14 +2219,14 @@ Caster’s hands become invisible to him
 Caster’s hands cannot be burned by nonmagical fire
 Casters hands fuse together at the palms
 Caster’s hands lock in their current position for 1d10 tums
-Caster’s hands rotate 360° whenever he casts a spell
+Caster’s hands rotate 360' whenever he casts a spell
 Caster's hands vanish until tomorrow afternoon
 Casters head appears to be a few fect away while he sleeps
 Casters head appears to have been cut off and reattached
 Casters head flashes like a disco ball for 1d4 tums
 Casters head is a featureless ovoid while he sleeps
 Casters head rings like a church bell 1d12 times
-Casters head rotates 360° whenever he casts a spell
+Casters head rotates 360' whenever he casts a spell
 Casters head shrinks to half its width
 Caster’s head furns into a cylinder
 Caster’s head, hands, and feet become invisible
@@ -2246,9 +2246,9 @@ Caster’s home is razed and the ground salted
 Caster’s home looks like it was built by angry children
 Caster's home now has aluminum siding
 Caster’s home resembles a huge sculpted bust of him
-Caster’s home rotates 90° each time he enters it
-Caster’s home rotates 90° each time he uses the door
-Caster’s home rotates 90° forward or back
+Caster’s home rotates 90' each time he enters it
+Caster’s home rotates 90' each time he uses the door
+Caster’s home rotates 90' forward or back
 Caster’s home smells distressingly of vomit
 Casters Intelligence drops by 2/3 while he’s invisible
 Casters Intelligence is halved under moonlight
@@ -2280,8 +2280,8 @@ Caster's name is actually the Dwarfish word for feces
 Caster's neck bears a scar as though he was once hanged
 Caster's neck shortens to % ts length
 Caster's next 1d4 spells allow no Saving Throws
-Caster's normal body temperature is now 112° Fahrenheit
-Caster's normal body temperature is now 74° Fahrenheit
+Caster's normal body temperature is now 112' Fahrenheit
+Caster's normal body temperature is now 74' Fahrenheit
 Caster's nose and mouth switch places
 Caster's nose appears to be made of flint
 Caster's nose becomes prehensile
@@ -2291,7 +2291,7 @@ Caster's nose falls off and explodes in 1d6 rounds
 Caster’s nose falls off, leaving an ugly hole in its place
 Caster's nose launches from his face like a rocket
 Caster's nose migrates to another part of his body
-Caster's nose rotates 90°
+Caster's nose rotates 90'
 Caster's nose runs for 1d4 rounds after casting a spell
 Caster’s nose runs profusely whenever he casts a spell
 Caster's nose seems to hover six inches in front of his face
@@ -2392,7 +2392,7 @@ Casters apparent CHA to opposite sex is raised to 19
 Casters apparent CHA to opposite sex is reduced to 1
 Casters appearance changes to that of a zombie
 Caster’s arm is broken
-Caster's armor (or metal gear) heats to 5d1000° for d10 rounds
+Caster's armor (or metal gear) heats to 5d1000' for d10 rounds
 Caster's armor and weapons become ethereal for d10 rounds
 Caster's armor or clothing leaps from his body and is sentient
 Caster's armor tums to silk (AC 10)
@@ -2454,8 +2454,8 @@ Caster's body is stricken numb whenever he casts a spell
 Caster's body is transmuted to equal volume of gold
 Caster's body seems to have no muscle; skin sags from his bones
 Caster's body shrinks by 75%, but his head remains normal sized
-Caster's body temperature falls d20° for 10 rounds
-Casters body temperature rises d10° for d20 rounds
+Caster's body temperature falls d20' for 10 rounds
+Casters body temperature rises d10' for d20 rounds
 Casters body tums ethereal; head is solid, seeming to float
 Casters body turns matte-black, but his shadow is full-color
 Casters body tums to a coherent, ambulatory water-form
@@ -2730,7 +2730,7 @@ Casters eyes bug out comically when he is startled
 Casters eyes bulge from his skull like those of a fish
 Casters eyes change color every time he blinks
 Casters eyes dangle from their sockets; vision unaffected
-Casters eyes extend on 12° stalks (1d10 to Charisma)
+Casters eyes extend on 12' stalks (1d10 to Charisma)
 Casters eyes fall out and roll away (regrow in d20 rounds)
 Casters eyes float one foot above his head; vision unaffected
 Casters eyes glow red when he casts a spell
@@ -2790,7 +2790,7 @@ Casters feet grow springs; bounces d4 feet high with each step
 Caster’s feet tum to wheels
 Casters fingernails become carpenters nails
 Casters fingers and toes switch places
-Casters fingers turn 90°; somatic components impossible
+Casters fingers turn 90'; somatic components impossible
 Caster's fingers turn to carrots for d12 turns, no spellcasting
 Casters fingers turn to steam for d10 rounds; no spellcasting.
 Caster's flesh and clothing become invisible when he is asleep
@@ -2816,7 +2816,7 @@ Casters footprints appear to have been made weeks earlier
 Casters footprints appear twice as big as his feet
 Caster's footprints become 2 fect deep when he steps from them
 Caster's footprints exude swamp gas
-Casters footprints face 90° from his direction of travel
+Casters footprints face 90' from his direction of travel
 Caster's footprints fill with ice
 Caster's footprints for d12 weeks face wrong direction
 Caster's footprints fossilize, making tracking confusing
@@ -2888,11 +2888,11 @@ Casters head attaches to his arm where his hand should be
 Casters head encased in iron with gaps for eyes, cars, & mouth
 Casters head looks like a soccer ball for 1 day
 Casters head pops like a balloon if a 20 is rolled ToHit him
-Casters head rotates 180° laterally without harming him
-Casters head rotates 180° longitudinally without harming him
-Casters head rotates 360° every five minutes; he is unharmed
-Casters head rotates 360° laterally without harming him
-Casters head rotates 360° longitudinally without harming him
+Casters head rotates 180' laterally without harming him
+Casters head rotates 180' longitudinally without harming him
+Casters head rotates 360' every five minutes; he is unharmed
+Casters head rotates 360' laterally without harming him
+Casters head rotates 360' longitudinally without harming him
 Casters head seems to double in size whenever he casts a spell
 Casters head seems to double in size whenever he is angered
 Casters head shrinks to 75%; likely to be looked at strangely
@@ -3016,7 +3016,7 @@ Casters next spell appears to transform him into a demon
 Casters next spell causes a rainstorm
 Casters next spell causes a snowstorm.
 Casters next spell causes an outcry from local residents
-Casters next spell centers Silence, 50° radius on him
+Casters next spell centers Silence, 50' radius on him
 Casters next spell erases all others from his memory
 Casters next spell fails spectacularly
 Casters next spell functions as a spell he’s never seen
@@ -3185,7 +3185,7 @@ Casters right knee is no longer able to bend
 Casters right thumb and index finger switch places
 Casters rings all link into a chain
 Casters rings develop a series of sharp projections inside
-Casters rings drop to -30° Fahrenheit
+Casters rings drop to -30' Fahrenheit
 Casters rings ring like church bells when he speaks his name
 Casters rings suddenly appear in his stomach
 Casters rings suddenly appear on his foes
@@ -3197,7 +3197,7 @@ Casters rings tum to flesh, retaining their enchantments
 Caster's Saves “flip” relative to 10; 11 becomes 9, cic.
 Casters scent is soothing to hounds.
 Caster's scent i terrifying to hounds
-Casters sense of balance is shifted 90°
+Casters sense of balance is shifted 90'
 Casters sense of beauty and veliness is reversed
 Caster’s sense of north and south fluctuates daily
 Casters sentences are appended with hallucinatory vulgarities
@@ -3231,7 +3231,7 @@ Casters skeleton glows through his skin when he casts a spell
 Casters skeleton glows through his skin when he says his name
 Casters skeleton glows through his skin whenever he is angry
 Casters skeleton polymorphs to that of another random creature
-Casters skeleton rotates 360°; caster reduced to 1 HP
+Casters skeleton rotates 360'; caster reduced to 1 HP
 Casters skeleton tums to diamond but retains usefulness
 Casters skin alternates red-to-white as his heart beats
 Casters skin and armor merge; undetectable but AC is retained
@@ -3327,10 +3327,10 @@ Casters teeth fall out; gets 1 GP for each left under pillow
 Casters tecth fuse for d4 hours; spellcasting impossible
 Casters tecth fuse together when he tells a lie
 Casters tecth glow in the dark
-Casters tecth heat to 110° when he tells a lic
-Casters tecth heat to 180°
+Casters tecth heat to 110' when he tells a lic
+Casters tecth heat to 180'
 Casters tecth receive unintelligible radio transmissions
-Casters tecth rotate 180°
+Casters tecth rotate 180'
 Casters tecth tum to diamonds
 Casters tecth fun to ice and melt; regrow in 1d10 days
 Casters tecth vanish at sunset and reappear at sunrise
@@ -3355,9 +3355,9 @@ Casters tongue furs to a snake (-d4 to CHA)
 Casters tongue fums to glass
 Casters tongue furs to leather
 Casters tongue vanishes
-Casters torso (not head or legs) rotates 180° without harm
-Casters torso (not head or legs) rotates 360° without harm
-Casters torso (not head or legs) rotates 90° without harm
+Casters torso (not head or legs) rotates 180' without harm
+Casters torso (not head or legs) rotates 360' without harm
+Casters torso (not head or legs) rotates 90' without harm
 Casters total existence in the present is eradicated
 Casters touch can drain hit points, but he loses a like amount
 Casters touch causes closed wounds to reopen
@@ -3406,7 +3406,7 @@ Caster's weapon argues with him about who to attack next
 Caster's weapon attacks him as a fighter of caster’s level
 Caster's weapon can discharge spell’s effect (d4 uses)
 Caster's weapon crumbles to dust upon next usage
-Caster's weapon explodes, inflicting d6 damage to all within 10°
+Caster's weapon explodes, inflicting d6 damage to all within 10'
 Caster's weapon tums to adamantite; gains +2
 Caster's weapon tums to chocolate
 Caster's weapon tums to mithral; gains +1
@@ -3432,7 +3432,7 @@ Colored lights dance around the casters head when he speaks
 Cream cheese oozes from the caster's nostrils
 Create Water drenches caster whenever he speaks his name
 Dairy products become poisonous afier the caster handles them
-Darkness, 100° radius, centers on caster for 10 rounds
+Darkness, 100' radius, centers on caster for 10 rounds
 Death appears, captures casters soul, and disappears
 Death appears, hugs caster, and vanishes; caster unharmed
 Death appears, swings a mop at caster, and disappears
@@ -3458,7 +3458,7 @@ Earth Elemental appears and drags caster to the Plane of Earth
 Earthen wall d4 feet thick d12 feet high encircles caster
 Electricity seems to spark in caster's mouth when he smiles
 Eliran’s Absolute Abjuration is discharged at casters location
-Every creature within 60° of caster rotates 180°
+Every creature within 60' of caster rotates 180'
 Every spell cast by caster is accompanied by a loud drum roll
 Everyone appears sickly and sallow to caster
 Everyone caster touches knows his name
@@ -3479,7 +3479,7 @@ For 10 days, caster need only cat ¥ the normal amount of food.
 For d4 hours, casters touch turns all precious metal to lead
 For d4 tums, casters touch tums all solid matter to gold
 For d6 days, caster can find secret doors 9 out of 10 times
-For d6 hours, all within 10° of caster covet his spellbook
+For d6 hours, all within 10' of caster covet his spellbook
 For d6 hours, casters touch tums all gems to colored ice
 For d6 tums casters gains a bloodhound’s olfactory acuity
 For some reason, the caster doesn’t think steel can hurt him
@@ -3565,7 +3565,7 @@ Nearest dragon's horde teleports to casters home
 Nearest Druid thinks caster willingly started a forest fire
 Nearest fire animates as an Elemental obedient to the caster
 Nearest frog assumes human form (attributes/alignment random)
-Nearest Lich is teleported to within 120° of caster
+Nearest Lich is teleported to within 120' of caster
 Nearest person of opposite sex fries to kill the caster
 Nearest royal of opposite sex develops intense hatred of caster
 Nearest royal of opposite sex falls in love with caster
@@ -3819,7 +3819,7 @@ One of casters limbs (random) doubles in length.
 One of casters limbs tums invisible for 2d12 hours
 One of casters possessions tums out to be a priceless antique
 One of casters possessions tums out to be a stolen artifact
-One plant within 60° of caster becomes a Shambling Mound
+One plant within 60' of caster becomes a Shambling Mound
 Oxygen becomes violently toxic to the caster
 Pack animals shrug off their loads when the caster is nearby
 ack animals strike up conversations with the caster
@@ -3830,13 +3830,13 @@ Putrid meat is restored by the caster's touch.
 Rain causes the caster to panic
 Random ally’s consciousness is pushed into the casters body
 Random creature in vicinity becomes amphibious
-Random creature within 60° of caster and caster exchange bodies
+Random creature within 60' of caster and caster exchange bodies
 Random facial feature of caster becomes invisible
 Random limb of caster is Withered as cleric spell
 Random limb of caster transforms into limb of another creature
 Random limb of caster turns to steam for d6 turns
 Random object within 30" of caster mimics caster’s personality
-Random object within 60° of caster becomes sentient
+Random object within 60' of caster becomes sentient
 Raw meat becomes putrid at the casters touch
 Raw meat squeals at the casters touch
 Shadow of caster appears to make mocking gestures at him
@@ -3887,8 +3887,8 @@ Steam rolls from the casters skin when he is angry
 Streams and rivers applaud when the caster crosses them
 Streams and rivers seem to be blood-red as caster crosses them
 Streams and rivers seem to flow uphill when caster crosses them
-Temperature of casters principal weapon drops to -260° C
-Temperature of casters principal weapon rises to 260° C.
+Temperature of casters principal weapon drops to -260' C
+Temperature of casters principal weapon rises to 260' C.
 The flesh of caster's hands is invisible for 1d8 days
 The next town caster enters greets him like a long-lost son.
 The next town caster enters reviles him like liar and a thief
@@ -3898,7 +3898,7 @@ The top half of caster's body is affected by Reverse Gravity
 The top of caster's head is flat as a table
 The top of casters head is perfectly smooth and flat
 Tomorrow caster can memorize an extra 16 levels of spells
-Twelve stone columns sprout from ground within 10° of caster
+Twelve stone columns sprout from ground within 10' of caster
 Two nearest demons vie for the caster's soul
 Undead react like caster is one of them, unless he attacks
 Vines grow from ground and bind caster until removed
@@ -3977,7 +3977,7 @@ When caster dies, no birds sing for 48 hours
 When caster dies, no one recognizes the corpse
 When caster dies, people come for miles to see the body
 When caster dies, small animals gather to pay their respects
-When caster dies, the ambient temperature drops 30°
+When caster dies, the ambient temperature drops 30'
 When caster dies, the moon appears blood-red for one month
 When caster dies, the nearest royal bloodline dics out, too
 When caster dies, the sky appears overcast for one week.
@@ -3998,7 +3998,7 @@ When caster draws his weapon someone nearby faints
 When caster is hit, he's suddenly wearing a baseball cap
 Wild Surge occurs next time caster says his name
 Wizard Mark reading “Kick me” forms on caster’s back
-12° iron statue of target sprouts from ground within 60° of him
+12' iron statue of target sprouts from ground within 60' of him
 daisy grows from target's head, may be pruned without harm
 1d10 fingers fall from target's hands; regrow over d10 days
 110 Hit Die Fireball centers on target
@@ -4045,12 +4045,12 @@ A thick, foul-smelling discharge oozes from target's cars
 A wealthy investor wants to buy the target's nervous system
 Air cannot come within 10 feet of target's principal weapon
 Air Elemental resides in target's lungs; inhalation unnecessary
-All air between 1” and 10° of target turns to iron.
-All air between 1° and 10° of target tums to water
-All air between 1 and 20° of target tums to fire
-All air within 1° of target turns to chlorine gas
-All air within 40° of target is evacuated
-All architecture within 120° of target is leveled
+All air between 1” and 10' of target turns to iron.
+All air between 1' and 10' of target tums to water
+All air between 1 and 20' of target tums to fire
+All air within 1' of target turns to chlorine gas
+All air within 40' of target is evacuated
+All architecture within 120' of target is leveled
 All attacks target made in the last turn hurt one of his allies
 All attacks target makes in the next fun cause +4 damage
 All attacks target makes in the next turn cause half damage
@@ -4074,13 +4074,13 @@ All enemies within 15 fect of target are turned to cast iron
 All external facial features of target disappear
 All fat in target's body turns to water: nerves, brain, etc.
 All flesh on target's face turns invisible when he smiles
-All foliage within 30° of target grows 3°
+All foliage within 30' of target grows 3'
 All food and drink tastes utterly bland to the target
-All free water within 120° of target furns to molasses
+All free water within 120' of target furns to molasses
 All gems carried by target are turned to ice
 All gems carried by target combust
-All ground within 60° of target is Greased, as spell
-All ground within 60° of target furs to glass, 10° deep
+All ground within 60' of target is Greased, as spell
+All ground within 60' of target furs to glass, 10' deep
 All items carried by target affected as by the spell ltem
 All items carried by target affected as by There/Not There
 All items carried by target age 1000 years
@@ -4097,7 +4097,7 @@ All items carried by target become resistant to fire; Saves +5
 All items carried by target become weightless; may float away
 All items carried by target double in size
 All items carried by target double their apparent weight
-All items carried by target drop 3d100°
+All items carried by target drop 3d100'
 All items carried by target enchanted with Continual Light
 All items carried by target exchange their apparent weights
 All items carried by target fly 10 yards in random directions
@@ -4122,7 +4122,7 @@ All items carried by target turn to steam
 All items carried by target turn to water
 All items owned by target teleport to him from his home
 All liquid except water is poisonous to target
-All matter within 60° of target becomes invisible for d4 rounds
+All matter within 60' of target becomes invisible for d4 rounds
 All meat tastes blood-raw to the target
 All metal on or within target turns to wood
 All of target's clothing now bears his monogram
@@ -4146,10 +4146,10 @@ All target's gems become enchanted with Continual Light
 All ten of target's fingers are now on his dominant hand
 All the bones disappear from the target's hands and fect
 All trees within 100 yards of target are tumed to cast iron.
-All trees within 60° of target uproot and walk away
-All water between 1° and 100° of target turns to air
-All water between 1° and 100° of target tums to fire
-All weapons within 60° of target become ethereal for dS rounds
+All trees within 60' of target uproot and walk away
+All water between 1' and 100' of target turns to air
+All water between 1' and 100' of target tums to fire
+All weapons within 60' of target become ethereal for dS rounds
 All who see target believe he precedes a great plague
 All who see target believe him to be a basilisk
 All who see target believe him to be a criminal
@@ -4162,7 +4162,7 @@ All who see target believe him to be an illusion
 All who sce target believe him to be some kind of undead
 All who see target believe him to be the avatar of a minor god
 All who sce target believe him to be the root of all evil
-All within 90° of target check INT or forget who the target is
+All within 90' of target check INT or forget who the target is
 All wood on or within target turns to metal
 All writing in target's spellbook appears backward
 All writing in target's spellbook furns blurry
@@ -4200,7 +4200,7 @@ Any water carried by target causes dehydration in its imbiber
 Any water carried by target doubles in volume
 Any water carried by target doubles size each of next 20 mds.
 Any water carried by target drags him to Elemental Water
-Any water carried by target drops 100° but doesnt freeze
+Any water carried by target drops 100' but doesnt freeze
 Any water carried by target endows drinker with water breathing
 Any water carried by target fills with Dust of Sneezing/Choking.
 Any water carried by target fills with gold pieces
@@ -4211,7 +4211,7 @@ Any water carried by target fills with sodium chips
 Any water carried by target fills with sponges
 Any water carried by target has diuretic effect on its imbiber
 Any water carried by target ignites on contact with air
-Any water carried by target rises 200° but does not boil
+Any water carried by target rises 200' but does not boil
 Any water carried by target tastes like gasoline and really is
 Any water carried by target tastes like gasoline but is pure
 Any water carried by target tastes pure but is gasoline
@@ -4313,7 +4313,7 @@ Earth Elemental appears and drags target to the Plane of Earth
 Earthen wall d4 feet thick, d12 feet high encircles target
 Earthquake shakes target for 1100 Hit Points of damage
 Electricity seems to spark in target's mouth when he smiles
-Every creature within 60° of target rotates 180°
+Every creature within 60' of target rotates 180'
 Every potion within 100 yards furns to another type of potion
 Everyone appears sickly and sallow to target
 Everyone in the world knows target's deepest secret
@@ -4335,7 +4335,7 @@ For d10 days, target's weight is squared; MR reduced to 1
 For d4 hours, target's touch tums all precious meal to lead
 For d4 tums, target's touch turns all solid matter to gold
 For d6 days, target can find secret doors 9 out of 10 times
-For d6 hours, all within 10° of target covet his spellbook
+For d6 hours, all within 10' of target covet his spellbook
 For d6 hours, target's touch tums all gems to colored ice
 For d6 tums target's gains a bloodhound’s olfactory acuity
 For some reason, the target doesn’t think steel can hurt him
@@ -4421,7 +4421,7 @@ Nearest dragon claims target as its familiar
 Nearest Druid thinks target willingly started a forest fire
 Nearest fire animates as an Elemental obedient to the target
 Nearest frog turns into a human (attributes/alignment random)
-Nearest Lich is teleported to within 120° of target
+Nearest Lich is teleported to within 120' of target
 Nearest person of opposite sex fries to kill the target
 Nearest scarecrow becomes animate and hunts target relentlessly
 Nearest tree imprisons target within its trunk
@@ -4636,7 +4636,7 @@ No one can sleep within 10 yards of target
 No one takes target seriously for 1d4 days
 Noodles tumble from target's nostrils
 Nothing in target's home is familiar to him anymore
-Oak tree sprouts beneath target; carries him 60° into the air
+Oak tree sprouts beneath target; carries him 60' into the air
 Ominous thunder rumbles overhead when target says his name
 One of target's arms turns to cheese
 One of target's eyes perceives things to be upside-down
@@ -4651,7 +4651,7 @@ One of target's limbs (random) doubles in length
 One of target's limbs turns invisible for 2d12 hours
 One of target's possessions turns out to be a priceless antique
 One of target's possessions turns out to be a stolen artifact
-One plant within 60° of target becomes a Shambling Mound
+One plant within 60' of target becomes a Shambling Mound
 Oxygen becomes violently toxic to the target
 Pack animals shrug off their loads when the target is nearby
 Pack animals strike up conversations with the target
@@ -4662,13 +4662,13 @@ Plant become sickly at the target's touch.
 Putrid meat is restored by the target's touch
 Rain causes the target to panic
 Random ally’s consciousness is pushed into the target's body
-Random creature within 60° of target and target exchange bodie
+Random creature within 60' of target and target exchange bodie
 Random enemy turns invisible for d4 rounds
 Random facial feature of target becomes invisible
 Random limb of target is Withered as cleric spell
 Random limb of target tums to steam for d6 turns
-Random object within 30° of target mimics target's personality
-Random object within 60° of target becomes sentient
+Random object within 30' of target mimics target's personality
+Random object within 60' of target becomes sentient
 Raw meat becomes putrid at the target's touch
 Rust monster appears in front of target
 Shadow of target radiates light in target's shape
@@ -5142,7 +5142,7 @@ Target cannot speak the truth for 1d6+1 days
 Target cannot speak unless spoken to
 Target cannot speak until he has ridden a horse
 Target cannot speak until he is bumed by fire
-Target cannot speak until no one is within 60° of him
+Target cannot speak until no one is within 60' of him
 Target cannot speak until rained upon
 Target cannot speak until someone inflicts damage upon him
 Target cannot speak until someone says his name
@@ -5193,7 +5193,7 @@ Target changes shape randomly every time he casts a spell
 Target checks WIS each round or decides it's pointless
 Target claims nearest dragon as a familiar
 Target closes his eyes and counts to 1000
-Target combusts at 32° Fahrenheit
+Target combusts at 32' Fahrenheit
 Target combusts at room temperature
 Target combusts when exposed to direct sunlight
 Target complains of persecution when things don’t go his way
@@ -5893,13 +5893,13 @@ Target laughs like a madman in the presence of royalty
 Target laughs like a madman whenever he’s hit by magic
 Target leaps 1,000,000 miles into space
 Target leaps 1,000,000 years into the future
-Target leaps 90° straight up and lands without harm
+Target leaps 90' straight up and lands without harm
 Target learns 1d3 languages during the next 2 months
 Target leaves no footprints for d8 weeks
 Target leaves strange, disquicting odors in his wake
 Target leaves wet footprints wherever he goes
 Target left a fire in his fireplace; house is now ablaze
-Target levitates 1° above ground, retains normal Movement Rate
+Target levitates 1' above ground, retains normal Movement Rate
 Target levitates slightly when he suffers damage
 Target levitates slightly when he’s hit by magic
 Target looks and sounds different to each creature viewing him
@@ -5987,7 +5987,7 @@ Target or random male ally becomes as beautiful as a nymph
 Target owns a widescreen color television
 Target owns two long-range, solar-powered walkie-talkies
 Target panics at the sight of his own blood
-Target perceives creatures to be facing 180° from/toward him
+Target perceives creatures to be facing 180' from/toward him
 Target perceives hidden demonic meaning in everyday events
 Target perceives sculptures to portray only horrifying images
 Target perceives those around him to be naked
@@ -6008,7 +6008,7 @@ Target punches himself in the jaw: 50% to knock himself out
 Target punches the person standing nearest to him
 Target quacks like a duck when he’s angry
 Target questions himself before using magic: +4 to Casting Time
-Target radiates antilife; drains 1 HP/round from all within 10°
+Target radiates antilife; drains 1 HP/round from all within 10'
 Target raises a d10 yard radius hemisphere of stone from ground
 Target randomly teleported 1 mile (N.S,E,W.NE,SE.SW.NW)
 Target reacts to criticism with hysterical sobbing
@@ -6035,7 +6035,7 @@ Target regards any missed attack as a personal failure
 Target regenerates 1 HP/round for the next 20+d20 rounds
 Target remembers the name of everyone he meets
 Target renounces magic until he's next affected by a spell
-Target rises on a column of stone 100° into the air
+Target rises on a column of stone 100' into the air
 Target roars like a lion after particularly good meals
 Target roars like a lion when angered
 Target runs amok
@@ -6184,7 +6184,7 @@ Target teleports to the nearest convent
 Target teleports to the place from which he last teleported
 Target teleports to the place he slept the previous night
 Target teleports to the place of his birth, returns in d4 days
-Target teleports to within 10° of nearest Lich
+Target teleports to within 10' of nearest Lich
 Target tends to giggle at inappropriate times
 Target thinks a big bad wolf wants to blow his house down
 Target thinks a nearby king is a clone of himself
@@ -6462,7 +6462,7 @@ Target thinks that spellbooks are edible and very tasty
 Target thinks that the stars are gefting closer all the time
 Target thinks that water is in short supply and must be hoarded
 Target thinks that water is poisonous
-Target thinks that water furs to diamond at 32° Fahrenheit
+Target thinks that water furs to diamond at 32' Fahrenheit
 Target thinks that, somewhere, his clone has become sentient
 Target thinks the caster owes him a great deal of money
 Target thinks the next corpse he sees is his own
@@ -6492,7 +6492,7 @@ Target tums to a statue while he sleeps and reverts on waking
 Target tums to glass for d4 rounds
 Target tums to iron d6 rounds; retains mobility and HP (AC 4)
 Target tums to sand
-Target tums to smoke each time he comes within 10° of flame
+Target tums to smoke each time he comes within 10' of flame
 Target tums to steam under every Full Moon
 Target tums to stone
 Target tums to stone and reverts every other round
@@ -6588,7 +6588,7 @@ Target would tell his deity a thing or two, given the chance
 Target: flesh to stone/rock to mud/water to dust/gust of wind
 Target's age is halved, but he looks twice as old.
 Target's anger manifests as a litle raincloud over his head
-Target's am is bent 90° halfivay between his wrist and elbow
+Target's am is bent 90' halfivay between his wrist and elbow
 Target's arms and legs vanish for 1d10 rounds
 Target's arms are stricken totally numb for 2d10 tums
 Target's arms grow to the size of his legs
@@ -6601,7 +6601,7 @@ Target's blood traces out arcane signs where it spills
 Target's blood tums to chocolate on contact with air
 Target's body is covered with octopus sucker-marks
 Target's body no longer produces saliva
-Target's body rotates 360°, though his head remains still
+Target's body rotates 360', though his head remains still
 Target's bones are brittle when he's in direct moonlight
 Target's bones cannot be broken by nonmagical means
 Target's boots are stuck to the ground with railroad spikes
@@ -6714,9 +6714,9 @@ Target's home is razed and the ground salted
 Target's home looks like it was built by angry children
 Target's home now has aluminum siding
 Target's home resembles a huge sculpted bust of him
-Target's home rotates 90° each time he enters it
-Target's home rotates 90° each time he uses the door
-Target's home rotates 90° forward or back
+Target's home rotates 90' each time he enters it
+Target's home rotates 90' each time he uses the door
+Target's home rotates 90' forward or back
 Target's home smells distressingly of vomit
 Target's Intelligence drops by 2/3 while he's invisible
 Target's Intelligence is halved under moonlight
@@ -6748,8 +6748,8 @@ Target's name is actually the Dwasfish word for feces
 Target's nasal cavity is stuffed full of pepper
 Target's neck bears a scar as though he was once hanged
 Target's neck shortens to % its length
-Target's normal body temperature is now 112° Fahrenheit
-Target's normal body temperature is now 74° Fahrenheit
+Target's normal body temperature is now 112' Fahrenheit
+Target's normal body temperature is now 74' Fahrenheit
 Target's nose and mouth switch places
 Target's nose appears to be made of flint
 Target's nose becomes prehensile
@@ -6758,7 +6758,7 @@ Target's nose falls off and explodes in 146 rounds
 Target's nose falls off, leaving an ely hole in its place
 Target's nose launches from his face like a rocket
 Target's nose migrates to another part of his body
-Target's nose rotates 90°
+Target's nose rotates 90'
 Target's nose seems to hover six inches in front of his face
 Target's nose triples ifs size
 Target's organs can be scen faintly through his skin
@@ -6855,7 +6855,7 @@ Target's apparent CHA to one member of the opposite sex doubles
 Target's apparent CHA to opposite sex is raised to 19
 Target's apparent CHA to opposite sex is reduced to 1
 Target's appearance changes to that of a zombie
-Target's armor (or metal gear) heats to 5d1000° for d10 rounds
+Target's armor (or metal gear) heats to 5d1000' for d10 rounds
 Target's armor and weapons become cthereal for d10 rounds
 Target's armor tums to silk (AC 10)
 Target's armor tums to snow
@@ -6930,8 +6930,8 @@ Target's body is stricken numb whenever he's hit by magic
 Target's body is transmuted to an equal volume of gold
 Target's body seems to have no muscle; skin sags from his bones
 Target's body shrinks by 75%, but his head remains normal sized
-Target's body temperature falls d20° for d10 rounds
-Target's body temperature rises d10° for d20 rounds
+Target's body temperature falls d20' for d10 rounds
+Target's body temperature rises d10' for d20 rounds
 Target's body turns matte-black, but his shadow is full-color
 Target's body turns to a coherent, ambulatory water-form
 Target's bones are adamantite; max. 1 HP damage from bludgeons.
@@ -7240,8 +7240,8 @@ Target's feet explode; all within 10 lose 2410 hit points
 Target's feet fecl like they are being tickled
 Target's feet grow springs; bounces d4 feet high with each step
 Target's feet levitate; target is suspended in air, feetfirst
-Target's feet rotate 180°
-Target's feet rotate 90°
+Target's feet rotate 180'
+Target's feet rotate 90'
 Target's feet shrink to % normal size; MR cut to normal
 Target's feet sprout wings; function like Boots of Flying
 Target's feet take root; Movement Rate drops to zero
@@ -7251,7 +7251,7 @@ Target's feet tum ethereal
 Target's feet tum to lead; Movement Rate drops to % normal
 Target's fingernails become carpenters nails
 Target's fingers and toes switch places
-Target's fingers tum 90°; somatic components impossible
+Target's fingers tum 90'; somatic components impossible
 Target's fingers tum to carrots for d12 turns, no spellcasting
 Target's fingers tum to steam for d10 rounds; no spellcasting
 Target's flesh and clothing become invisible when he is asleep
@@ -7272,7 +7272,7 @@ Target's footprints appear to have been made weeks earlier
 Target's footprints appear twice as big as his feet
 Target's footprints become two feet decp as he steps from them
 Target's footprints exude swamp gas
-Target's footprints face 90° from his direction of travel
+Target's footprints face 90' from his direction of travel
 Target's footprints fill with ice
 Target's footprints for d12 weeks face wrong direction
 Target's footprints fossilize, making tracking confusing
@@ -7336,10 +7336,10 @@ Target's head appears to throb in time with his heart
 Target's head attaches to his arm where his hand should be
 Target's head orbits him like an Toun Stone; target is unharmed
 Target's head pops like a balloon if a 20 is rolled ToHit him
-Target's head rotates 180° laterally without harming him
-Target's head rotates 180° longitudinally without harming him
-Target's head rotates 360° laterally without harming him
-Target's head rotates 360° longitudinally without harming him
+Target's head rotates 180' laterally without harming him
+Target's head rotates 180' longitudinally without harming him
+Target's head rotates 360' laterally without harming him
+Target's head rotates 360' longitudinally without harming him
 Target's head seems to double in size when he’s angered
 Target's head seems to double in size when he’s hit by magic
 Target's head shrinks by 75%; likely to be looked at strangely
@@ -7440,7 +7440,7 @@ Target's mouth fills with feathers
 Target's mouth fills with spiders
 Target's mouth is Wizard Locked as by a 20th Level mage
 Target's mouth opens sideways instead of up and down
-Target's mouth projects a 60°20" cone of green light when open
+Target's mouth projects a 60'20" cone of green light when open
 Target's mouth radiates Light, as spell
 Target's mouth turns invisible, except his teeth.
 Target's muscles bulge; Save vs Death to gain 1 Strength or die
@@ -7595,7 +7595,7 @@ Target's right knee is no longer able to bend
 Target's right thumb and index finger switch places
 Target's rings all link into a chain
 Target's rings develop a series of sharp projections inside
-Target's rings drop to -30° Fahrenheit
+Target's rings drop to -30' Fahrenheit
 Target's rings ring like church bells when he speaks his name
 Target's rings suddenly appear in his stomach
 Target's rings suddenly appear on his toes
@@ -7624,8 +7624,8 @@ Target's Saves “flip” relative to 10; 11 becomes 9, etc.
 Target's scent is soothing to hounds
 Target's scent is terrifying to hounds
 Target's sclerae tum black; pupils and irises turn white
-Target's sense of balance is shifted 180°
-Target's sense of balance is shifted 90°
+Target's sense of balance is shifted 180'
+Target's sense of balance is shifted 90'
 Target's sense of beauty and ugliness is reversed
 Target's sentences are appended with hallucinatory vulgarities
 Target's sentences spoken as questions, spellcasting impossible
@@ -7678,7 +7678,7 @@ Target's skeleton glows through his skin when he casts a spell
 Target's skeleton glows through his skin when he says his name
 Target's skeleton glows through his skin whenever he is angry
 Target's skeleton polymorphs to that of another random creature.
-Target's skeleton rotates 360°; target reduced to 1 HP
+Target's skeleton rotates 360'; target reduced to 1 HP
 Target's skeleton teleported d4 yards away
 Target's skeleton fries to claw free of his body
 Target's skeleton furs to diamond but retains vitality
@@ -7766,11 +7766,11 @@ Target's tecth fall out; gets 1 GP for each left under pillow.
 Target's tecth fuse together for d4 hours; speech is impossible
 Target's tecth fuse together when he tells a lic
 Target's tecth glow in the dark
-Target's tecth heat to 110° when he tells a lic
-Target's tecth heat to 180°
+Target's tecth heat to 110' when he tells a lic
+Target's tecth heat to 180'
 Target's tecth leap from his mouth and chatter away from him
 Target's tecth receive unintelligible radio transmissions
-Target's tecth rotate 180°
+Target's tecth rotate 180'
 Target's tecth shoot from him like bullets, injuring all nearby
 Target's tecth tum needle-sharp; may bite for 1d6+1 HP damage
 Target's tecth tum to diamonds
@@ -7809,9 +7809,9 @@ Target's tongue tums to leather
 Target's tongue tums to silk.
 Target's tongue vanishes
 Target's torches, lantems, etc. furn to magnesium and ignite
-Target's torso (not head or legs) rotates 180° without harm
-Target's torso (not head or legs) rotates 360° without harm
-Target's torso (not head or legs) rotates 90° without harm
+Target's torso (not head or legs) rotates 180' without harm
+Target's torso (not head or legs) rotates 360' without harm
+Target's torso (not head or legs) rotates 90' without harm
 Target's total existence in the present is eradicated
 Target's touch can drain hit points, but he loses a like amount
 Target's touch causes closed wounds to reopen
@@ -7862,9 +7862,9 @@ Target's weapon can discharge spells effect (d4 uses)
 Target's weapon cannot be wielded by any but him
 Target's weapon causes insanity in anyone else wiclding it
 Target's weapon crumbles to dust upon next usage
-Target's weapon explodes, causing 1d6 damage to all within 10°
+Target's weapon explodes, causing 1d6 damage to all within 10'
 Target's weapon giggles maniacally when it is sheathed
-Target's weapon heats to 4d1000°, may melt or combust
+Target's weapon heats to 4d1000', may melt or combust
 Target's weapon tums inside out
 Target's weapon tums to adamantite; gains +2
 Target's weapon tums to lead
@@ -7881,7 +7881,7 @@ Target's Wisdom exceeds the casters by 1d4
 Target's Wisdom is increased by 1 for d4 tums
 Target's Wisdom is reduced by d6 for d6 days
 Target's word order is shuffled; verbal spellcasting impossible
-Temperature of target's principal weapon drops to 260° C
+Temperature of target's principal weapon drops to 260' C
 The flesh of target's hands is invisible for 1d8 days
 The ground beneath target's feet tums cthercal
 The ground beneath target's feet tums to an carth clemental
@@ -7897,7 +7897,7 @@ The person nearest to the target will die if he dies
 The top half of target's body is affected by Reverse Gravity
 The top of target's head is flat as a table
 The top of target's head is perfectly smooth and flat
-Twelve stone columns sprout from ground within 10° of target
+Twelve stone columns sprout from ground within 10' of target
 Two nearest demons vie for the target's soul
 Undead react like target is one of them, unless he attacks
 Vines grow from ground and bind target until removed
@@ -7976,7 +7976,7 @@ When target dies, no birds sing for 48 hours
 When target dies, no one recognizes the corpse
 When target dies, people come for miles to see the body
 When target dies, small animals gather to pay their respects
-When target dies, the ambient temperature drops 30°
+When target dies, the ambient temperature drops 30'
 When target dies, the moon appears blood-red for one month
 When target dies, the nearest royal bloodline dies out, too
 When target dies, the sky appears overcast for one week
@@ -8108,7 +8108,7 @@ Wizard Mark reading “Kick me" forms on target's back
 1 random humanoid nearby can understand all written languages
 1 random humanoid nearby doubles in height but not mass
 1 random humanoid nearby gains 1d100% Magic Resistance
-1 random magic item within 100° gains another enchantment
+1 random magic item within 100' gains another enchantment
 1 random male nearby always thinks he has 10 minutes to live
 1 random male nearby becomes incredibly beautiful when angry
 1 random male nearby becomes striped like a candy cane.
@@ -8241,7 +8241,7 @@ yard radius fills with ominous and frightening whispers
 Yard radius fills with vermin
 Yard radius forms a basin and gradually becomes a lake
 yard radius has a Fear aura like a Great Wyrm
-yard radius hemisphere of ground rotates 180°
+yard radius hemisphere of ground rotates 180'
 Yard radius intensifies the emotions of those within it
 yard radius is affected by Continual Light
 yard radius is affected by Distance Distortion for 1 hour
@@ -8579,7 +8579,7 @@ All glass within 60 yards turns to eggshell
 All glass within 60 yards tums to ice
 All gold within 60 yards combines into 1 large mass
 All gold within 60 yards doubles in volume
-All gold within 60 yards heats by 100°
+All gold within 60 yards heats by 100'
 All gold within 60 yards is teleported into nearest temple
 All gold within 60 ards tums to glass
 All gold within 60 yards turns to lead
@@ -8693,18 +8693,18 @@ All males within 60 ards think they've forgotten 1 week
 All males within 60 ards tum into rabbits for 110 turns
 All males within 60 yards vanish for 1 turn
 All mammals within 60 yards are stripped of all hair
-All matter within 10° of target point vanishes
+All matter within 10' of target point vanishes
 All melee weapons within 60 yards become ethereal
 All members of nearest ant colony gain human size and intellect
 All metal armor within 60 yards animates & becomes fiee-willed
 All metal armor within 60 yards engages in combat
 All metal armor within 60 yards enlarges by 50%
 All metal armor within 60 yards flees the area
-All metal armor within 60 yards heats to 180°
+All metal armor within 60 yards heats to 180'
 All metal armor within 60 yards must Save or fur to burlap
 All metal armor within 60 yards piles in a heap at farget point
 All metal armor within 60 yards shrinks 109%; crushing damage
-All metal armor within 60 yards tums 180°
+All metal armor within 60 yards tums 180'
 All metal armor within 60 yards turns inside out
 All metal armor within 60 yards tums invisible
 All metal armor within 60 yards turns to gold
@@ -8720,7 +8720,7 @@ All metal within 60 yards becomes clectrically non-conductive
 All metal within 60 yards becomes rust-proof
 All metal within 60 yards becomes toxic to ifs owner
 All metal within 60 yards begins to rust at an alarming rate
-All metal within 60 yards drops to -200° Fahrenheit
+All metal within 60 yards drops to -200' Fahrenheit
 All metal within 60 yards is affected by Heat Metal
 All metal within 60 yards is polished to mirror brightness
 All metal within 60 yards is sheathed in thin leather
@@ -8788,7 +8788,7 @@ All potions within 60 yards cause a second, delusional effect
 All potions within 60 yards cause a second, detrimental effect
 All potions within 60 yards cause a second, random effect
 All potions within 60 yards cause their drinkers to rust
-All potions within 60 ards combust at 85° Fahrenheit.
+All potions within 60 ards combust at 85' Fahrenheit.
 All potions within 60 ards double in duration of effect
 All potions within 60 yards double in potency
 All potions within 60 yards double in volume 1d4 times
@@ -8856,7 +8856,7 @@ All shapeshifters for 5 miles can assume yet another form
 All slain within 60 yards stand at attention where they fall
 All sleeping creatures within 1 mile awaken
 All sling stones and the like within 60 yards tum to ice
-All soil within 30° becomes sodium; rain falls for 54 rounds
+All soil within 30' becomes sodium; rain falls for 54 rounds
 All soil within 60 yards turns to concrete
 All soi, rocks, and minerals in 10,000 square yard area vanish
 All sound generated within 60 yards doubles in volume
@@ -9142,13 +9142,13 @@ All worked stone within 60 yards furns to sand
 All writing within 60 yards becomes illegible for 1d4 days
 All written text within spells area of effect turns backward
 All zombies within 60 yards suddenly have no legs
-Ambient temperature decreases by 10d10° for 1d10 rounds
-Ambient temperature decreases by 20d10° for 1d4 rounds
-Ambient temperature decreases by 510° for 1d20 rounds
-Ambient temperature increases by 10d10° for 1d10 rounds
-Ambient temperature increases by 20d10° for 1d4 rounds
-Ambient temperature increases by 50° at nightfall
-Ambient temperature increases by 5d10° for 1420 rounds
+Ambient temperature decreases by 10d10' for 1d10 rounds
+Ambient temperature decreases by 20d10' for 1d4 rounds
+Ambient temperature decreases by 510' for 1d20 rounds
+Ambient temperature increases by 10d10' for 1d10 rounds
+Ambient temperature increases by 20d10' for 1d4 rounds
+Ambient temperature increases by 50' at nightfall
+Ambient temperature increases by 5d10' for 1420 rounds
 An anonymous corpse appears nearby, riddled with bullets
 An explosion flattens the nearest castle
 An illusory Red Dragon appears and attacks everyone nearby
@@ -9276,7 +9276,7 @@ Illusions cast in the area are free-willed for their duration
 In the next 2 tums, 3d10 fect of snow cover a 60 yard radius
 Internal dimensions of nearest dwelling are doubled
 Internal gravity of nearest dwelling increases 144X
-Internal gravity of nearest dwelling is flipped 90°
+Internal gravity of nearest dwelling is flipped 90'
 Internal gravity of nearest dwelling is halved
 Internal gravity of nearest dwelling is lost
 Internal gravity of nearest dwelling is reversed (flipped 180%)
@@ -9355,7 +9355,7 @@ Nearest doorway becomes a lasting Portal to the Ethereal Plane
 Nearest doorway causes any entering it to exit via another door
 Nearest doorway causes any traversing it to age 5d10 years
 Nearest doorway causes any traversing i to lose 1/2 their HP
-Nearest doorway flips any traversing it 180° laterally
+Nearest doorway flips any traversing it 180' laterally
 Nearest doorway restores 1/2 lost HP to any traversing it
 Nearest dragon appears in the area
 Nearest dragon desperately wants to be human
@@ -9433,7 +9433,7 @@ Nearest fire resurrects as an elemental the st corpse it burns
 Nearest fire resurrects first corpse thrown info it
 Nearest fire rises and flees the area
 Nearest fire streaks into the sky like a reversed meteor
-Nearest fire takes 1HP per round from all within 10° of it
+Nearest fire takes 1HP per round from all within 10' of it
 Nearest Giant is summoned; appears in 2410 rounds
 Nearest goat tums into a boat
 Nearest Gold Dragon polymorphs into a butterfly; retains memory
@@ -9677,7 +9677,7 @@ Nearest river flows at 10 times normal rate
 Nearest river flows backward along is entire length for 1 day
 Nearest river freezes solid
 Nearest river halves its width
-Nearest river heats by 80°, killing any aquatic life within it
+Nearest river heats by 80', killing any aquatic life within it
 Nearest river hurls all fish within it onto ifs banks
 Nearest river ignites
 Nearest river is covered by a layer of stone
@@ -9764,7 +9764,7 @@ Next 1 to cast a spell in area teleports 1d100 miles randomly
 Night turns to day, or vice versa, for 1d4 hours
 No aging occurs within 60 yard radius of target point of spell
 No artificially-sown crops can ever again grow within 10 miles
-No fire can bum within 100° of target point for 1 whole year
+No fire can bum within 100' of target point for 1 whole year
 No fire-based magic can be cast within 60 yards
 No fresh air circulates into a 60 yard radius of target point
 No healing, magical or otherwise, works within 60 yard radius
@@ -9772,7 +9772,7 @@ No illusions can manifest within 60 yards
 No magic functions within 1 mile for 1d10 turns
 No necromancy spells function in the area until sunset tomorrow
 No nocturnal creatures can come within 60 yards
-No 1 may approach within 100° of target point for 1 year
+No 1 may approach within 100' of target point for 1 year
 No 1 who saw the casting can attack anyone clse who saw it
 No 1 who saw the casting can cat while in direct sunlight
 No 1 who saw the casting can ignite fires for 110 days
@@ -9907,7 +9907,7 @@ Spell functions but creates bizarre images in its wake
 Spell functions but its effect is invisible
 Spell functions but no 1 remembers it afterward
 Spell functions but smells like sulfur
-Spell hits a random target once for each creature within 50°
+Spell hits a random target once for each creature within 50'
 Spell occurs at this time every day for the next year
 Spell overshoots; hits creature behind intended target
 Spell recurs each of next 1d4 rounds, hitting random targets
@@ -9927,8 +9927,8 @@ Target point of the spell shines with bright, natural sunlight
 Tattooed map of choice cuts covers all livestock within 1 mile
 Tattooed map of choice cuts covers any demihumans within 1 mile
 Temperature drops 1d100 degrees within 60 yard radius
-Temperature in 60 yard radius permanently raised by 20°
-Temperature in 60 yard radius permanently reduced by 20°
+Temperature in 60 yard radius permanently raised by 20'
+Temperature in 60 yard radius permanently reduced by 20'
 Temperature nearby drops 1( for each of the next 1d100 rounds
 The climate within 60 yards becomes frigid like the arctic
 The climate within 60 yards becomes inhospitable to life
