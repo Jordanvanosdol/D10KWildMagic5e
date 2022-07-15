@@ -1,26 +1,101 @@
 <!DOCTYPE html>
-<link rel="stylesheet" href="css/bootstrap.css">
-<scrypt src="js/d10000wildMagic5e.js"></script>
+<!--link rel="stylesheet" href="css/bootstrap.css"-->
+
 
 <html>
     <head>
+        <script src="js/main.js"></script>
+        <title>d10000 Wild Magic Roller</title>
+        <link link rel="stylesheet" href="css/bootstrapDarkly.css"> </link>
         <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>JavaScript Boilerplate</title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width">
 
-        <!-- build:css(.tmp) css/style.min.css -->
-        <link rel="stylesheet" href="css/style.css">
-        <link rel="stylesheet" href="css/prism.css">
-        <!-- endbuild -->
-
-        <!--[if lt IE 9]>
-            <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-        <![endif]-->
+        <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" ></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.min.js" integrity="sha384-Atwg2Pkwv9vp0ygtn1JAojH0nYbwNJLPhwyoVbhoPwBhjQPR5VtM2+xf0Uwh9KtT" crossorigin="anonymous"></script>
+    
     </head>
 
     <body>
-        <button type="button" class="btn btn-primary">Primary</button>
+        <div class="well" style="margin:10%; width:50%">
+            <div style="position:0; float:left; margin:2%">
+                <button id= "roll_button" type="button" class="btn btn-primary btn-lg" onclick="rollWildMagic()">Roll Wild Magic</button><br>
+                <div id="manualInputModDiv" class="form-group has-success"  style="position:0; float:left; margin:2%; visibility:hidden">
+                    <div style="float:left">
+                        <label class="form-label mt-4" for="manualInputValid">Manual Result</label>
+                        <input type="text" value="1" class="form-control is-valid" id="manualInputValid" onChange="updateManualValidField()">
+                        <input type="hidden" value="1" class="form-control is-invalid" id="manualInputInvalid" onChange="updateManualInvalidField()">
+                    </div>
+                </div>
+            </div>
+
+            <div style="position:0; float:left; margin:2%">
+                <div style="float:left">
+                    <fieldset class="form-group">
+                      <div class="form-check">
+                        <input class="form-check-input" type="checkbox" id="manualCheckBox" onclick="toggleEnterManualResultVisability()">
+                        <label class="form-check-label" for="flexCheckDefault">
+                          Enter Manual Result
+                        </label><br>
+
+                        <input class="form-check-input" type="checkbox" id="modifierCheckBox" onclick="toggleRollModifierVisability()">
+                        <label class="form-check-label" for="flexCheckDefault">
+                          Use Static Modifier
+                        </label>
+                      </div>
+                    </fieldset>
+                    <div>
+                        <span id= "roll_result" class="badge bg-primary">Roll Result: 0</span>
+                        <span id= "total_result" class="badge bg-primary" style="visibility:hidden">Total Result: 0</span>
+                    </div>
+                </div>
+            </div>
+            <div id="inputModDiv" class="form-group has-success"  style="position:0; float:left; margin:2%; visibility:hidden">
+                <div style="float:left">Static Modifier
+                    <label class="form-label mt-4" for="inputValid"></label>
+                    <input type="text" value="1" class="form-control is-valid" id="inputValid" onChange="updateIsValidModifier()">
+                    <input type="hidden" value="1" class="form-control is-invalid" id="inputInvalid" onChange="updateIsInValidModifier()">
+                </div>
+            </div>
+        </div>
+        <div style="margin:15%; width:50%">
+            <table class="table table-hover">
+              <thead>
+                <tr>
+                  <th scope="col">Result</th>
+                  <th scope="col">Wild Magic Effect</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="table-active">
+                  <th scope="row">2355</th>
+                  <td>Super crazy wild magic effect place holder: 1. this will be replaced with dynamic content later</td>
+                </tr>
+                <tr class="table-active">
+                  <th scope="row">2356</th>
+                  <td>Super crazy wild magic effect place holder: 2. this will be replaced with dynamic content later</td>
+                </tr>
+                <tr class="table-active">
+                  <th scope="row">2357</th>
+                  <td>Super crazy wild magic effect place holder: 3. this will be replaced with dynamic content later</td>
+                </tr>
+                </tr>
+                <tr class="table-light">
+                  <th scope="row">2358</th>
+                  <td>Super crazy wild magic effect place holder: 4. this will be replaced with dynamic content later</td>
+                </tr>
+                <tr class="table-active">
+                  <th scope="row">2359</th>
+                  <td>Super crazy wild magic effect place holder: 5. this will be replaced with dynamic content later</td>
+                </tr>
+                <tr class="table-active">
+                  <th scope="row">2360</th>
+                  <td>Super crazy wild magic effect place holder: 6. this will be replaced with dynamic content later</td>
+                </tr>
+                <tr class="table-active">
+                  <th scope="row">2361</th>
+                  <td>Super crazy wild magic effect place holder: 7. this will be replaced with dynamic content later</td>
+                </tr>
+              </tbody>
+            </table>
+        </div>
     </body>
 </html>
