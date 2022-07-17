@@ -4,6 +4,8 @@
 
 <html>
     <head>
+        <META HTTP-EQUIV="Access-Control-Allow-Origin" CONTENT="Wild_Magic.txt">
+        <!--script type="module" src="js/wildMagicResults.js"></script-->
         <script src="js/main.js"></script>
         <title>d10000 Wild Magic Roller</title>
         <link link rel="stylesheet" href="css/bootstrapDarkly.css"> </link>
@@ -15,87 +17,146 @@
     </head>
 
     <body>
-        <div class="well" style="margin:10%; width:50%">
-            <div style="position:0; float:left; margin:2%">
-                <button id= "roll_button" type="button" class="btn btn-primary btn-lg" onclick="rollWildMagic()">Roll Wild Magic</button><br>
-                <div id="manualInputModDiv" class="form-group has-success"  style="position:0; float:left; margin:2%; visibility:hidden">
-                    <div style="float:left">
-                        <label class="form-label mt-4" for="manualInputValid">Manual Result</label>
-                        <input type="text" value="1" class="form-control is-valid" id="manualInputValid" onChange="updateManualValidField()">
-                        <input type="hidden" value="1" class="form-control is-invalid" id="manualInputInvalid" onChange="updateManualInvalidField()">
-                    </div>
+        <ul class="nav nav-tabs">
+            <li class="nav-item">
+                <a class="nav-link active" data-bs-toggle="tab" href="#HomeContent">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#MechanicsContent">Mechanics</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#EffectsContent">Effects</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Subclasses</a>
+                <div class="dropdown-menu" style="">
+                    <a class="nav-link" data-bs-toggle="tab" href="#SubclassBard">SubclassBard</a>
+                    <a class="nav-link" data-bs-toggle="tab" href="#SubclassCleric">SubclassCleric</a>
+                    <a class="nav-link" data-bs-toggle="tab" href="#SubclassDruid">SubclassDruid</a>
+                    <a class="nav-link" data-bs-toggle="tab" href="#SubclassSorceror">SubclassSorceror</a>
+                    <a class="nav-link" data-bs-toggle="tab" href="#SubclassWarlock">SubclassWarlock</a>
+                    <a class="nav-link" data-bs-toggle="tab" href="#SubclassWizard">SubclassWizard</a>
                 </div>
+            </li>
+        </ul>
+
+        <div id="myTabContent" class="tab-content">
+            <div id="MechanicsContent" class="tab-pane fade" style="width:100%; margin:5%">
+                MechanicsContent
+            </div>
+           
+            <div id="EffectsContent" class="tab-pane fade" style="width:100%; margin:5%">
+                EffectsContent
             </div>
 
-            <div style="position:0; float:left; margin:2%">
-                <div style="float:left">
-                    <fieldset class="form-group">
-                      <div class="form-check">
-                        <input class="form-check-input" type="checkbox" id="manualCheckBox" onclick="toggleEnterManualResultVisability()">
-                        <label class="form-check-label" for="flexCheckDefault">
-                          Enter Manual Result
-                        </label><br>
+            <div id="SubclassBard" class="tab-pane fade" style="width:100%; margin:5%">
+                SubclassBard
+            </div>
 
-                        <input class="form-check-input" type="checkbox" id="modifierCheckBox" onclick="toggleRollModifierVisability()">
-                        <label class="form-check-label" for="flexCheckDefault">
-                          Use Static Modifier
-                        </label>
-                      </div>
-                    </fieldset>
-                    <div>
-                        <span id= "roll_result" class="badge bg-primary">Roll Result: 0</span>
-                        <span id= "total_result" class="badge bg-primary" style="visibility:hidden">Total Result: 0</span>
+            <div id="SubclassCleric" class="tab-pane fade" style="width:100%; margin:5%">
+                SubclassCleric
+            </div>
+
+            <div id="SubclassDruid" class="tab-pane fade" style="width:100%; margin:5%">
+                SubclassDruid
+            </div>
+
+            <div id="SubclassSorceror" class="tab-pane fade" style="width:100%; margin:5%">
+                SubclassSorceror
+            </div>
+
+            <div id="SubclassWarlock" class="tab-pane fade" style="width:100%; margin:5%">
+                SubclassWarlock
+            </div>
+
+            <div id="SubclassWizard" class="tab-pane fade" style="width:100%; margin:5%">
+                SubclassWizard
+            </div>
+
+            <div id="HomeContent" class="tab-pane fade active show" style="width:100%; margin:5%">
+                <div>
+                    <div style="position:0; float:left">
+                        <button id= "roll_button" type="button" class="btn btn-primary btn-lg" onclick="rollWildMagic()">Roll Wild Magic</button><br>
+                        <div id="manualInputModDiv" class="form-group has-success"  style="position:0; float:left; margin:2%; visibility:hidden">
+                            <div style="float:left">
+                                <label class="form-label mt-4" for="manualInputValid">Manual Result</label>
+                                <input type="text" value="1" class="form-control is-valid" id="manualInputValid" onChange="updateManualValidField()">
+                                <input type="hidden" value="1" class="form-control is-invalid" id="manualInputInvalid" onChange="updateManualInvalidField()">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div style="position:0; float:left">
+                        <div style="float:left">
+                            <fieldset class="form-group">
+                              <div class="form-check">
+                                <input class="form-check-input" type="checkbox" id="manualCheckBox" onclick="toggleEnterManualResultVisability()">
+                                <label class="form-check-label" for="flexCheckDefault">
+                                  Enter Manual Result
+                                </label><br>
+
+                                <input class="form-check-input" type="checkbox" id="modifierCheckBox" onclick="toggleRollModifierVisability()">
+                                <label class="form-check-label" for="flexCheckDefault">
+                                  Use Static Modifier
+                                </label>
+                              </div>
+                            </fieldset>
+                            <div>
+                                <span id= "roll_result" class="badge bg-primary">Roll Result: 0</span>
+                                <span id= "total_result" class="badge bg-primary" style="visibility:hidden">Total Result: 0</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="inputModDiv" class="form-group has-success"  style="position:0; float:left; visibility:hidden">
+                        <div style="float:left">Static Modifier
+                            <label class="form-label mt-4" for="inputValid"></label>
+                            <input type="text" value="1" class="form-control is-valid" id="inputValid" onChange="updateIsValidModifier()">
+                            <input type="hidden" value="1" class="form-control is-invalid" id="inputInvalid" onChange="updateIsInValidModifier()">
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div id="inputModDiv" class="form-group has-success"  style="position:0; float:left; margin:2%; visibility:hidden">
-                <div style="float:left">Static Modifier
-                    <label class="form-label mt-4" for="inputValid"></label>
-                    <input type="text" value="1" class="form-control is-valid" id="inputValid" onChange="updateIsValidModifier()">
-                    <input type="hidden" value="1" class="form-control is-invalid" id="inputInvalid" onChange="updateIsInValidModifier()">
+                <div style="margin:5%; width:50%">
+                    <table class="table table-hover">
+                      <thead>
+                        <tr>
+                          <th scope="col">Result</th>
+                          <th scope="col">Wild Magic Effect</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr class="table-active">
+                          <th id="roll_res_1" scope="row">2355</th>
+                          <td id="roll_val_1">Super crazy wild magic effect place holder: 1. this will be replaced with dynamic content later</td>
+                        </tr>
+                        <tr class="table-active">
+                          <th id="roll_res_2" scope="row">2356</th>
+                          <td id="roll_val_2">Super crazy wild magic effect place holder: 2. this will be replaced with dynamic content later</td>
+                        </tr>
+                        <tr class="table-active">
+                          <th id="roll_res_3" scope="row">2357</th>
+                          <td id="roll_val_3">Super crazy wild magic effect place holder: 3. this will be replaced with dynamic content later</td>
+                        </tr>
+                        </tr>
+                        <tr class="table-dark">
+                          <th id="roll_res_4" scope="row">2358</th>
+                          <td id="roll_val_4">Super crazy wild magic effect place holder: 4. this will be replaced with dynamic content later</td>
+                        </tr>
+                        <tr class="table-active">
+                          <th id="roll_res_5" scope="row">2359</th>
+                          <td id="roll_val_5">Super crazy wild magic effect place holder: 5. this will be replaced with dynamic content later</td>
+                        </tr>
+                        <tr class="table-active">
+                          <th id="roll_res_6" scope="row">2360</th>
+                          <td id="roll_val_6">Super crazy wild magic effect place holder: 6. this will be replaced with dynamic content later</td>
+                        </tr>
+                        <tr class="table-active">
+                          <th id="roll_res_7" scope="row">2361</th>
+                          <td id="roll_val_7">Super crazy wild magic effect place holder: 7. this will be replaced with dynamic content later</td>
+                        </tr>
+                      </tbody>
+                    </table>
                 </div>
             </div>
-        </div>
-        <div style="margin:15%; width:50%">
-            <table class="table table-hover">
-              <thead>
-                <tr>
-                  <th scope="col">Result</th>
-                  <th scope="col">Wild Magic Effect</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr class="table-active">
-                  <th scope="row">2355</th>
-                  <td>Super crazy wild magic effect place holder: 1. this will be replaced with dynamic content later</td>
-                </tr>
-                <tr class="table-active">
-                  <th scope="row">2356</th>
-                  <td>Super crazy wild magic effect place holder: 2. this will be replaced with dynamic content later</td>
-                </tr>
-                <tr class="table-active">
-                  <th scope="row">2357</th>
-                  <td>Super crazy wild magic effect place holder: 3. this will be replaced with dynamic content later</td>
-                </tr>
-                </tr>
-                <tr class="table-light">
-                  <th scope="row">2358</th>
-                  <td>Super crazy wild magic effect place holder: 4. this will be replaced with dynamic content later</td>
-                </tr>
-                <tr class="table-active">
-                  <th scope="row">2359</th>
-                  <td>Super crazy wild magic effect place holder: 5. this will be replaced with dynamic content later</td>
-                </tr>
-                <tr class="table-active">
-                  <th scope="row">2360</th>
-                  <td>Super crazy wild magic effect place holder: 6. this will be replaced with dynamic content later</td>
-                </tr>
-                <tr class="table-active">
-                  <th scope="row">2361</th>
-                  <td>Super crazy wild magic effect place holder: 7. this will be replaced with dynamic content later</td>
-                </tr>
-              </tbody>
-            </table>
         </div>
     </body>
 </html>
